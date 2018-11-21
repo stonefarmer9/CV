@@ -46,7 +46,7 @@ A-levels :
 
 **Christchurch Harbour Hotrl** (October 2017 to March 2018)    
 Front office Manager
-		Responsibilities
+  Responsibilities
 Ensure day to day smooth running of Front Office and housekeeping departments
 Manage & control hotel and restaurant tripadvisor
 Drive training of all teams in service culture, leadership & procedural skills
@@ -61,7 +61,7 @@ Achieved a cultural change within teams, fostering increased teamwork, loyalty t
 
 **The Castle Hotel - MGallery collection - Windsor** (March 2016 to August 2017)   
 Reception Manager
-		Responsibilities
+  Responsibilities
 Ensure the day to day smooth running of reception and guest relations team. 
 Carry out daily audit of front office as well as all hotel voids and discounts and investigating any issues.
 Carry out development and training with my team through various methods.
@@ -69,7 +69,7 @@ Facilitate hotel wide training sessions varying from three hours to two days in 
 Delivered luxury service to our high end clientele acting to ensure all guests had a memorable and personal journey with us. 
 		
 
-Achievements
+  Achievements
 Successfully implemented, drove and maintained cultural change and improvement throughout the hotel. In line with the accor value based leadership program
 Achieved Accor trainer pass - Dimension level - 2017
 Ensured the smooth transition during change of ownership
