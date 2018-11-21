@@ -88,3 +88,7 @@ Increased team morale to ensure the team are capable of handling all changes bei
 Began rapid development of two under trained team members - providing both a greater understanding of the hotel and their role within it
 Acted as interim Front Office Manager until promotion to Reception Manager
 
+#### Hobbies & Interest ####
+I have always loved to read, and write fiction, currently working on a fantasy epic while also working on a H.P. Lovecraft anthology novel with my partner who also writes.
+I am an avid hiker, sometimes loving nothing more than to dissappear into the country side with my boots, compass and notebooks seeking inspiriation.
+I am also a lover of interactive story-telling and gaming, requiring an awful lot of organisation and people managing but incredibly rewarding when your story takes your players through a good few loops.
