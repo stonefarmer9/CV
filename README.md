@@ -1,5 +1,6 @@
 ## Georges Le Vaillant
-{ George Le Valiant - british pronunciation} 
+{ George Le Valiant - british pronunciation}
+
 I am nothing special, simply someone who wants to change their life to support a future unattainable through my previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my propsects to provide a decent contribtion to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer offered to me. 
 
 
