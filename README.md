@@ -99,11 +99,16 @@ A-levels :
 **Reception Manager**
 
 #### Responsibilities
-Ensure the day to day smooth running of reception and guest relations team.
-Carry out daily audit of front office as well as all hotel voids and discounts and investigating any issues.
-Carry out development and training with my team through various methods.
-Facilitate hotel wide training sessions varying from three hours to two days in length.
-Delivered luxury service to our high end clientele acting to ensure all guests had a memorable and personal journey with us.
+
+- Ensure the day to day smooth running of reception and guest relations team.
+
+- Carry out daily audit of front office as well as all hotel voids and discounts and investigating any issues.
+
+- Carry out development and training with my team through various methods.
+
+- Facilitate hotel wide training sessions varying from three hours to two days in length.
+
+- Delivered luxury service to our high end clientele acting to ensure all guests had a memorable and personal journey with us.
 
 
 #### Achievements
