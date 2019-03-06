@@ -35,45 +35,69 @@ I have always been patient with people, and progression. I feel it is one of my 
 
 #### Team leadership
 
-Having been a fervent follower of Simon Sinek's teachings since my exposure to it at a leadership training weekend. I followed his words and the words of some fantastic teachers based in the netherlands, and defined myself not as a manager but as a leader, someone who would lead the forlorn hope rather than direct it. I lived these values at my time in Windsor especially, even becoming the in house leadership trainer, allowing me to coach and teach the lessons that made me effective as people leader. It is really my aspiration to become a team leader or dare I sat manager within technology as I believe my skills will truly shine in these roles eventually.
+Having been a fervent follower of Simon Sinek's teachings since my exposure to it at a leadership training weekend. I followed his words and the words of some fantastic teachers based in the netherlands, and defined myself not as a manager but as a leader, someone who would lead the forlorn hope rather than direct it. I lived these values at my time in Windsor especially, even becoming the in house leadership trainer, allowing me to coach and teach the lessons that made me effective as people leader. It is really my aspiration to become a team leader or dare I say it, manager within technology as I believe my skills will truly shine in these roles eventually.
 
 
-## Education
+## Education & Qualifiations
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2017 - March 2018)
 
-TO BE COMPLETE WHEN I HAVE ACUTALLY BEEN THERE - OTHERWISE - I've done a pecourse so far, and its cool, but I need a teacher so bad.
+I have spent the last 16 weeks in developer boot-camp. The first four weeks of which are spent self-teaching in your home environment, followed by 12 weeks onsite at the academy. Here our learning was focused on the language agnostic skills needed to be a developer. The core teachings they provided me are:
+
+- Test Driven Development (TDD)
+- Object Oriented Design (OOD)
+- Debugging process
+- General methodical processes for approaching any project.
+- SOLID principles such as Do Not Repeat yourself (DRY) and Single responsibility principle(SRP)
+- Clean code conventions and processes.
+
+The course has given me an excellent set of skills to enable me to become a junior developer and begin a career in the tech industry.
+
 #### University of Durham (October 2008 - June 2011)
 
     BSc Honours Applied Psychology
 
 #### Any other qualifications
 
+```
 A-levels :
         - Psychology
         -Philosophy
-        -Classical Civilisation
+        -Classical Civilisation```
 
 ## Experience
 
-**Christchurch Harbour Hotrl** (October 2017 to March 2018)    
-Front office Manager
-  Responsibilities
-Ensure day to day smooth running of Front Office and housekeeping departments
-Manage & control hotel and restaurant tripadvisor
-Drive training of all teams in service culture, leadership & procedural skills
-Was responsible for all areas of quality and the guest journey, working with all teams to improve both
-Maintain controls of department payroll budgets to deliver consistent savings
+### Christchurch Harbour Hotel (October 2017 to March 2018)    
 
-    Achievements
-Implemented new secure financial controls
-Carried out in depth retraining of reception team members achieving an increase in feedback mentions for all team
-Developed housekeeping supervisor into deputy head housekeeper through training and mentoring
-Achieved a cultural change within teams, fostering increased teamwork, loyalty to each other and a drive to work for the guest and each other.
+**Front office Manager**
 
-**The Castle Hotel - MGallery collection - Windsor** (March 2016 to August 2017)   
-Reception Manager
-  Responsibilities
+#### Responsibilities
+
+ - Ensure day to day smooth running of Front Office and housekeeping departments
+
+ - Manage & control hotel and restaurant trip-advisor
+
+ - Drive training of all teams in service culture, leadership & procedural skills
+
+ - Was responsible for all areas of quality and the guest journey, working with all teams to improve both.
+
+- Maintain controls of department payroll budgets to deliver consistent savings
+
+#### Achievements
+
+- Implemented new secure financial controls
+
+- Carried out in depth retraining of reception team members achieving an increase in feedback mentions for all team.
+
+- Developed housekeeping supervisor into deputy head housekeeper through training and mentoring.
+
+- Achieved a cultural change within teams, fostering increased teamwork, loyalty to each other and a drive to work for the guest and each other.
+
+### The Castle Hotel - MGallery collection - Windsor (March 2016 to August 2017)   
+
+**Reception Manager**
+
+#### Responsibilities
 Ensure the day to day smooth running of reception and guest relations team.
 Carry out daily audit of front office as well as all hotel voids and discounts and investigating any issues.
 Carry out development and training with my team through various methods.
@@ -81,26 +105,34 @@ Facilitate hotel wide training sessions varying from three hours to two days in 
 Delivered luxury service to our high end clientele acting to ensure all guests had a memorable and personal journey with us.
 
 
-  Achievements
+#### Achievements
 Successfully implemented, drove and maintained cultural change and improvement throughout the hotel. In line with the accor value based leadership program
 Achieved Accor trainer pass - Dimension level - 2017
 Ensured the smooth transition during change of ownership
 
-**The Castle Hotel - MGallery collection - Windsor**(October 2015 - March 2016)
- Assistant front office manager
+### The Castle Hotel - MGallery collection - Windsor (October 2015 - March 2016)
 
-Responsibilities
-Introducing and maintaining new MGallery standards to the previously Mercure hotel
-Introducing new procedures to check in and check out to streamline the process while enhancing the guest experience.
-Monitor frequent complaints and log them for the purposes of improvement of the hotel as a product.
-Ensuring the daily running of reception is smooth and efficient
+ **Assistant front office manager**
 
-Achievements
-Increased team morale to ensure the team are capable of handling all changes being introduced
-Began rapid development of two under trained team members - providing both a greater understanding of the hotel and their role within it
-Acted as interim Front Office Manager until promotion to Reception Manager
+#### Responsibilities
+
+- Introducing and maintaining new MGallery standards to the previously Mercure hotel.
+
+- Introducing new procedures to check in and check out to streamline the process while enhancing the guest experience.
+
+- Monitor frequent complaints and log them for the purposes of improvement of the hotel as a product.
+
+- Ensuring the daily running of reception is smooth and efficient
+
+#### Achievements
+
+- Increased team morale to ensure the team are capable of handling all changes being introduced.
+
+- Began rapid development of two under trained team members - providing both a greater understanding of the hotel and their role within it.
+
+- Acted as interim Front Office Manager until promotion to Reception Manager
 
 #### Hobbies & Interest ####
 I have always loved to read, and write fiction, currently working on a fantasy epic while also working on a H.P. Lovecraft anthology novel with my partner who also writes.
-I am an avid hiker, sometimes loving nothing more than to dissappear into the country side with my boots, compass and notebooks seeking inspiriation.
+I am an avid hiker, sometimes loving nothing more than to disappear into the country side with my boots, compass and notebooks seeking inspiration.
 I am also a lover of interactive story-telling and gaming, requiring an awful lot of organisation and people managing but incredibly rewarding when your story takes your players through a good few loops.
