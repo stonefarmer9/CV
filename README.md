@@ -63,7 +63,8 @@ The course has given me an excellent set of skills to enable me to become a juni
 A-levels :
         - Psychology
         -Philosophy
-        -Classical Civilisation```
+        -Classical Civilisation
+```
 
 ## Experience
 
