@@ -1,19 +1,27 @@
 ## Georges Le Vaillant
 { George Le Valiant - british pronunciation}
 
-I am nothing special, simply someone who wants to change their life to support a future unattainable through my previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my propsects to provide a decent contribtion to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer offered to me. 
+I am nothing special, simply someone who wants to change their life to support a future unattainable through my previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my prospects to provide a decent contribution to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer offered to me.
+
+## Projects
+|Project Name|Description|Tech|Tests|Timeframe|
+|:-----------|:----------|:---|:----|:--------|
+|Airport Challenge| Our first weekend challenge at Makers academy. This represents where I started and is included here to be compared against my other projects to show how far I have grown.|Ruby|RSpec|1 Weekend|
+|Chitter Challenge|Our Winter-Break Challenge completed during Makers. This was completed after week 4 of the course and shows how my process has developed since weekend 1. It shows a strong TDD process and a commitment to good committing. I feel it also shows some of my better work at this point in the course.|Ruby, HTML, Sinatra, Postgres, ActiveRecord, Rubocop |RSpec, Capybara|2 weeks (over Christmas period)|
+|Airport --- JS & Intro-to-Javascript|During week 6 of Makers our task was to learn a new language of our choice, choosing Javascript due to its popularity I began the process by test driving small apps such as FizzBuzz and rock paper scissors. These taught me the basics of the language and testing with Jest. I then pushed that process by rebuilding the first weekend project - Airport - in Javascript. The program demonstrates the process driven changes I have been through since the first week and the difference in the two code bases, test bases and commit histories exhibit these changes the most.|Javascript|Jest|5 mornings (09:00-13:00)|
+|AceBook|Our fist big group project done in weeks 8 & 9 of Makers. The task was to create a facebook clone in 2 weeks. Working as a group of 4 this was our first project employing Agile processes. It also shows how I am able to work as part of a team and do my best to ensure my teams success. N.B Smoking-Dragons was our team name|
 
 
 ## Skills
 
 #### People
 
-Through my time in hotels one skill mattered most and it was how you handled people. While not a natural skill entering the trade, it has certainly become one on leaving it. I have developed through years of customer service and working in teams a good ability to read a person and take steps to be someone who can work with them or provide an excellent experience for them. My skills with people eventually led to me to Accor Hotels professions challenge, a competition to find the worlds best hoteliers. Working towards it I eventually came away with an award for best Receptionist in the UK, going onto to represent the UK at an international competition. 
+Through my time in hotels one skill mattered most and it was how you handled people. While not a natural skill entering the trade, it has certainly become one on leaving it. I have developed through years of customer service and working in teams a good ability to read a person and take steps to be someone who can work with them or provide an excellent experience for them. My skills with people eventually led to me to Accor Hotels professions challenge, a competition to find the worlds best hoteliers. Working towards it I eventually came away with an award for best Receptionist in the UK, going onto to represent the UK at an international competition.
 
 #### Communication
 
 The first thing to kill a hotel is a lack of communication, was advice given to me by one of my first managers. I only fully understood this upon reaching management level, where a lack of communication turned a complaint about a damaged car to a corporote level fandango.
-I have become a dutiful and diligent communicator from my time in this industry, implementing numerous methods for my teams and the wider company to communicate better. A big part of this was the simple introduction of publicly available technology like whattsapp and gdrive to ensure everyone was in the know at all times, along with handling the wider hotel's Duty Manager log, I became the man in the know most days and nexus of communication around the hotel. 
+I have become a dutiful and diligent communicator from my time in this industry, implementing numerous methods for my teams and the wider company to communicate better. A big part of this was the simple introduction of publicly available technology like whattsapp and gdrive to ensure everyone was in the know at all times, along with handling the wider hotel's Duty Manager log, I became the man in the know most days and nexus of communication around the hotel.
 
 #### Creativity
 
@@ -34,8 +42,8 @@ Having been a fervent follower of Simon Sinek's teachings since my exposure to i
 
 TO BE COMPLETE WHEN I HAVE ACUTALLY BEEN THERE - OTHERWISE - I've done a pecourse so far, and its cool, but I need a teacher so bad.
 #### University of Durham (October 2008 - June 2011)
-   	
-    BSc Honours Applied Psychology 
+
+    BSc Honours Applied Psychology
 
 #### Any other qualifications
 
@@ -54,22 +62,22 @@ Manage & control hotel and restaurant tripadvisor
 Drive training of all teams in service culture, leadership & procedural skills
 Was responsible for all areas of quality and the guest journey, working with all teams to improve both
 Maintain controls of department payroll budgets to deliver consistent savings
-		
+
     Achievements
 Implemented new secure financial controls
 Carried out in depth retraining of reception team members achieving an increase in feedback mentions for all team
 Developed housekeeping supervisor into deputy head housekeeper through training and mentoring
-Achieved a cultural change within teams, fostering increased teamwork, loyalty to each other and a drive to work for the guest and each other. 
+Achieved a cultural change within teams, fostering increased teamwork, loyalty to each other and a drive to work for the guest and each other.
 
 **The Castle Hotel - MGallery collection - Windsor** (March 2016 to August 2017)   
 Reception Manager
   Responsibilities
-Ensure the day to day smooth running of reception and guest relations team. 
+Ensure the day to day smooth running of reception and guest relations team.
 Carry out daily audit of front office as well as all hotel voids and discounts and investigating any issues.
 Carry out development and training with my team through various methods.
 Facilitate hotel wide training sessions varying from three hours to two days in length.
-Delivered luxury service to our high end clientele acting to ensure all guests had a memorable and personal journey with us. 
-		
+Delivered luxury service to our high end clientele acting to ensure all guests had a memorable and personal journey with us.
+
 
   Achievements
 Successfully implemented, drove and maintained cultural change and improvement throughout the hotel. In line with the accor value based leadership program
@@ -77,16 +85,16 @@ Achieved Accor trainer pass - Dimension level - 2017
 Ensured the smooth transition during change of ownership
 
 **The Castle Hotel - MGallery collection - Windsor**(October 2015 - March 2016)
- Assistant front office manager 
+ Assistant front office manager
 
 Responsibilities
 Introducing and maintaining new MGallery standards to the previously Mercure hotel
 Introducing new procedures to check in and check out to streamline the process while enhancing the guest experience.
 Monitor frequent complaints and log them for the purposes of improvement of the hotel as a product.
 Ensuring the daily running of reception is smooth and efficient
-		
+
 Achievements
-Increased team morale to ensure the team are capable of handling all changes being introduced 
+Increased team morale to ensure the team are capable of handling all changes being introduced
 Began rapid development of two under trained team members - providing both a greater understanding of the hotel and their role within it
 Acted as interim Front Office Manager until promotion to Reception Manager
 
