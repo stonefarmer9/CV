@@ -1,7 +1,7 @@
 ## Georges Le Vaillant
-{ George Le Valiant - british pronunciation}
+{ *George Le Valiant - British pronunciation* }
 
-I am nothing special, simply someone who wants to change their life to support a future unattainable through my previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my prospects to provide a decent contribution to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer offered to me.
+I am simply someone who wants to change their life to support a future unattainable through their previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my prospects to provide a decent contribution to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer available to me from that which has passed.
 
 ## Projects
 |Project Name|Description|Tech|Tests|Timeframe|
@@ -18,24 +18,24 @@ I am nothing special, simply someone who wants to change their life to support a
 
 #### People
 
-Through my time in hotels one skill mattered most and it was how you handled people. While not a natural skill entering the trade, it has certainly become one on leaving it. I have developed through years of customer service and working in teams a good ability to read a person and take steps to be someone who can work with them or provide an excellent experience for them. My skills with people eventually led to me to Accor Hotels professions challenge, a competition to find the worlds best hoteliers. Working towards it I eventually came away with an award for best Receptionist in the UK, going onto to represent the UK at an international competition.
+Through my time in hotels one skill mattered most and it was how you handled people. While not a natural skill entering the trade, it has certainly become one on leaving it. I have developed, through years of customer service and working in teams, an ability to read a person and take steps to be someone who can work with them or provide an excellent experience for them. My skills with people eventually led to me to Accor Hotels professions challenge, a competition to find the worlds best hoteliers. Working towards it I eventually came away with an award for best Receptionist in the UK, going onto to represent the UK at an international competition.
 
 #### Communication
 
-The first thing to kill a hotel is a lack of communication, was advice given to me by one of my first managers. I only fully understood this upon reaching management level, where a lack of communication turned a complaint about a damaged car to a corporote level fandango.
-I have become a dutiful and diligent communicator from my time in this industry, implementing numerous methods for my teams and the wider company to communicate better. A big part of this was the simple introduction of publicly available technology like whattsapp and gdrive to ensure everyone was in the know at all times, along with handling the wider hotel's Duty Manager log, I became the man in the know most days and nexus of communication around the hotel.
+The first thing to kill any workplace is a lack of communication, was advice given to me by one of my first managers. I only fully understood this upon reaching management level, where a lack of communication turned a complaint about a damaged car to a corporate level fandango.
+I have become a dutiful and diligent communicator from my time in this industry, implementing numerous methods for my teams and the wider company to communicate better. A big part of this was the simple introduction of publicly available technology like Whattsapp and Gdrive to ensure everyone was in the know at all times, along with handling the wider hotel's Duty Manager log, I ensured I was a man in the know most days and nexus of communication for the hotel.
 
 #### Creativity
 
-I consider myself to be creative at heart and love the written word above any other art form. I have long hobbied as a crestive writer, conjuring enitre worlds into existence before snuffing them out. I try to bring this creativity to everything I do, be it creatively changing a cigarette break into a daily managers meeting, or applying totally new approaches to problems. I feel this skill affords me n ability to easily throw out the old and bring in the new as all stories must evolve to be eternal.
+I consider myself to be creative at heart and love the written word above any other art form. I have long ridden the hobby of creative writer, conjuring entire worlds into existence before snuffing them out. I try to bring this creativity to everything I do, be it creatively changing a cigarette break into a daily managers meeting, or applying totally new approaches to problems. I feel this skill affords me an ability to easily throw out the old and bring in the new as all stories must evolve to be eternal.
 
 #### Patient
 
-I have always been patient with people, and progression. I feel it is one of my greatest strength and by far the one that has taken me furthest. It is an undeniable asset in me that has allowed me to take underperforming staff, and in a few months of hard work turn them into team leaders and supervisors. I take the time to listen to those who follow me and to lead them down a path they are happy with, I will always wait and pick them up when they stumble as all people do, and I will never leave a man behind because they are slow, I would rather re-work the team to make them fast.
+I have always been patient with people, and progression. I feel it is one of my greatest strength and by far the one that has taken me furthest. It is an undeniable asset in me that has allowed me to take underperforming staff, and in a few months of hard work turn them into team leaders and supervisors. I take the time to listen to those who follow me and to lead them down a path they are happy with, I will always wait and pick them up when they stumble, as all people do, and I will never leave a man behind because they are slow, I would rather re-work the team to make them fast.
 
 #### Team leadership
 
-Having been a fervent follower of Simon Sinek's teachings since my exposure to it at a leadership training weekend. I followed his words and the words of some fantastic teachers based in the netherlands, and defined myself not as a manager but as a leader, someone who would lead the forlorn hope rather than direct it. I lived these values at my time in Windsor especially, even becoming the in house leadership trainer, allowing me to coach and teach the lessons that made me effective as people leader. It is really my aspiration to become a team leader or dare I say it, manager within technology as I believe my skills will truly shine in these roles eventually.
+Having been a fervent follower of [Simon Sinek's](https://www.youtube.com/watch?v=u4ZoJKF_VuA&list=FLS9PFx7DUC7LOAII8mrArkw&index=8&t=0s) teachings since my exposure to it at a leadership training weekend. I followed his words and the words of some fantastic teachers based in the [Netherlands](https://ps-ee.com/), and defined myself not as a manager but as a leader, someone who would lead the forlorn hope rather than direct it. I lived these values at my time in Windsor especially, even becoming the in house leadership trainer, allowing me to coach and teach the lessons that made me effective as people leader. It is really my aspiration to become a team leader or dare I say it, manager within technology as I believe my skills will truly shine in these roles eventually.
 
 
 ## Education & Qualifiations
@@ -112,9 +112,12 @@ A-levels :
 
 
 #### Achievements
-Successfully implemented, drove and maintained cultural change and improvement throughout the hotel. In line with the accor value based leadership program
-Achieved Accor trainer pass - Dimension level - 2017
-Ensured the smooth transition during change of ownership
+
+- Successfully implemented, drove and maintained cultural change and improvement throughout the hotel. In line with the Accor value based leadership program.
+
+- Achieved Accor trainer pass - Dimension level - 2017 - Accor in house training & facilitation qualification.
+
+- Ensured the smooth transition during change of ownership
 
 ### The Castle Hotel - MGallery collection - Windsor (October 2015 - March 2016)
 
@@ -139,6 +142,6 @@ Ensured the smooth transition during change of ownership
 - Acted as interim Front Office Manager until promotion to Reception Manager
 
 #### Hobbies & Interest ####
-I have always loved to read, and write fiction, currently working on a fantasy epic while also working on a H.P. Lovecraft anthology novel with my partner who also writes.
+I have always loved to read, and write fiction, currently working on a [fantasy epic](https://docs.google.com/document/d/1PUuP8AwBn2UY2svVBM5e8csOQf1CNxPyTvvl32xe3d4/edit?usp=sharing)(beware its a first draft!) while also working on a H.P. Lovecraft inspired anthology novel with my partner who also writes.
 I am an avid hiker, sometimes loving nothing more than to disappear into the country side with my boots, compass and notebooks seeking inspiration.
-I am also a lover of interactive story-telling and gaming, requiring an awful lot of organisation and people managing but incredibly rewarding when your story takes your players through a good few loops.
+I am also a lover of interactive story-telling and gaming, requiring an awful lot of organisation and people managing but incredibly rewarding when your story takes your players deduce your challenges and creatively work through my campaign.
