@@ -1,5 +1,6 @@
 ## Georges Le Vaillant
 { *George Le Valiant - British pronunciation* }
+
 [Contact Details](https://github.com/stonefarmer9/CV/blob/master/contact-details.md)
 
 I am simply someone who wants to change their life to support a future unattainable through their previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my prospects to provide a decent contribution to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer available to me from that which has passed.
