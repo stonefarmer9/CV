@@ -6,12 +6,12 @@ I am simply someone who wants to change their life to support a future unattaina
 ## Projects
 |Project Name|Description|Tech|Tests|Timeframe|
 |:-----------|:----------|:---|:----|:--------|
-|[Airport Challenge](https://github.com/stonefarmer9/airport_challenge)| Our first weekend challenge at Makers academy. This represents where I started and is included here to be compared against my other projects to show how far I have grown.|Ruby|RSpec|1 Weekend|
-|[Chitter Challenge](https://github.com/stonefarmer9/chitter-challenge)|Our Winter-Break Challenge completed during Makers. To build a twitter clone. This was completed after week 4 of the course and shows how my process has developed since weekend 1. It shows a strong TDD process and a commitment to good committing. I feel it also shows some of my better work at this point in the course.|Ruby, HTML, Sinatra, Postgres, ActiveRecord, Rubocop |RSpec, Capybara|2 weeks (over Christmas period)|
-|[Airport](https://github.com/stonefarmer9/Airport---JS) --- [JS & Intro-to-Javascript](https://github.com/stonefarmer9/Intro-to-Javascript)|During week 6 of Makers our task was to learn a new language of our choice, choosing Javascript due to its popularity I began the process by test driving small apps such as FizzBuzz and rock paper scissors. These taught me the basics of the language and testing with Jest. I then pushed that process by rebuilding the first weekend project - Airport - in Javascript. The program demonstrates the process driven changes I have been through since the first week and the difference in the two code bases, test bases and commit histories exhibit these changes the most.|Javascript|Jest|5 mornings (09:00-13:00)|
-|[AceBook](https://github.com/stonefarmer9/acebook-rails-smoking-dragons)|Our fist big group project done in weeks 8 & 9 of Makers. The task was to create a facebook clone in 2 weeks. Working as a group of 4 this was our first project employing Agile processes. It also shows how I am able to work as part of a team and do my best to ensure my teams success. N.B Smoking-Dragons was our team name|Ruby on Rails, HTML, CSS, Travis, Heroku, ActiveRecord, Rubocop| RSpec, Capybara| 2 weeks|
+|[Airport Challenge](https://github.com/stonefarmer9/airport_challenge)| Our first weekend challenge at Makers academy. A small app to mimic basic air traffic control functionality.|Ruby|RSpec|1 Weekend|
+|[Chitter Challenge](https://github.com/stonefarmer9/chitter-challenge)|Our Winter-Break Challenge completed during Makers. To build a web based messaging/note keeping service.|Ruby, HTML, Sinatra, Postgres, ActiveRecord, Rubocop |RSpec, Capybara|2 weeks (over Christmas period)|
+|[Airport](https://github.com/stonefarmer9/Airport---JS)|During week 6 of Makers our task was to learn a new language of our choice, choosing Javascript due to its popularity I began the process by test driving the Airport challenge with Jest. |Javascript|Jest|5 mornings (09:00-13:00)|
+|[AceBook](https://github.com/stonefarmer9/acebook-rails-smoking-dragons)|Our first big group project - build a facebook clone in Rails N.B Smoking-Dragons was our team name|Ruby on Rails, HTML, CSS, Travis, Heroku, ActiveRecord, Rubocop| RSpec, Capybara| 2 weeks|
 |[Banking Tech Test](https://github.com/stonefarmer9/Banking-tech-test)|Week 10 project of Makers. Individual tech test practice. Taking a week to complete a small banking tech test which lets a user deposit and withdraw amounts and can provide a printed statement.|Javascript|Jest|1 week|
-|[Keep Ahead(React Front)](https://github.com/stonefarmer9/keepAhead-react_front_end_hhh)<br><br>[Rails backend](https://github.com/stonefarmer9/KeepAhead_RailsAPI)|Our final group project, an app for helping the homeless in an ever increasing cashless age. This shows the final project and culmination of 12 weeks at Makers and 6 months of my total experience. Here we truly followed Agile processes and it resulted in an app we are proud to have built and even better we are proud of how we built it as a team of 6.|Front End: Javascript React, Back End: Ruby on Rails, Rubocop Both: Travis, Heroku|FE: Jest, Enzyme; BE: RSpec|2 weeks|
+|[Keep Ahead(React Front)](https://github.com/stonefarmer9/keepAhead-react_front_end_hhh)|Our final group project, an app for helping the homeless in an ever increasing cashless age. The app allows you to donate money to a local cafe or shelter for the homeless to redeem with a passphrase.|Front End: Javascript React, Back End: Ruby on Rails, Rubocop Both: Travis, Heroku|FE: Jest, Enzyme; BE: RSpec|2 weeks|
 
 
 ## Skills
@@ -72,74 +72,15 @@ A-levels :
 
 **Front office Manager**
 
-#### Responsibilities
-
- - Ensure day to day smooth running of Front Office and housekeeping departments
-
- - Manage & control hotel and restaurant trip-advisor
-
- - Drive training of all teams in service culture, leadership & procedural skills
-
- - Was responsible for all areas of quality and the guest journey, working with all teams to improve both.
-
-- Maintain controls of department payroll budgets to deliver consistent savings
-
-#### Achievements
-
-- Implemented new secure financial controls
-
-- Carried out in depth retraining of reception team members achieving an increase in feedback mentions for all team.
-
-- Developed housekeeping supervisor into deputy head housekeeper through training and mentoring.
-
-- Achieved a cultural change within teams, fostering increased teamwork, loyalty to each other and a drive to work for the guest and each other.
-
 ### The Castle Hotel - MGallery collection - Windsor (March 2016 to August 2017)   
 
 **Reception Manager**
-
-#### Responsibilities
-
-- Ensure the day to day smooth running of reception and guest relations team.
-
-- Carry out daily audit of front office as well as all hotel voids and discounts and investigating any issues.
-
-- Carry out development and training with my team through various methods.
-
-- Facilitate hotel wide training sessions varying from three hours to two days in length.
-
-- Delivered luxury service to our high end clientele acting to ensure all guests had a memorable and personal journey with us.
-
-
-#### Achievements
-
-- Successfully implemented, drove and maintained cultural change and improvement throughout the hotel. In line with the Accor value based leadership program.
-
-- Achieved Accor trainer pass - Dimension level - 2017 - Accor in house training & facilitation qualification.
-
-- Ensured the smooth transition during change of ownership
 
 ### The Castle Hotel - MGallery collection - Windsor (October 2015 - March 2016)
 
  **Assistant front office manager**
 
-#### Responsibilities
-
-- Introducing and maintaining new MGallery standards to the previously Mercure hotel.
-
-- Introducing new procedures to check in and check out to streamline the process while enhancing the guest experience.
-
-- Monitor frequent complaints and log them for the purposes of improvement of the hotel as a product.
-
-- Ensuring the daily running of reception is smooth and efficient
-
-#### Achievements
-
-- Increased team morale to ensure the team are capable of handling all changes being introduced.
-
-- Began rapid development of two under trained team members - providing both a greater understanding of the hotel and their role within it.
-
-- Acted as interim Front Office Manager until promotion to Reception Manager
+ [For More information on my work history]()
 
 #### Hobbies & Interest ####
 I have always loved to read, and write fiction, currently working on a [fantasy epic](https://docs.google.com/document/d/1PUuP8AwBn2UY2svVBM5e8csOQf1CNxPyTvvl32xe3d4/edit?usp=sharing)(beware its a first draft!) while also working on a H.P. Lovecraft inspired anthology novel with my partner who also writes.
