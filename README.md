@@ -1,4 +1,4 @@
-## Georges Le Vaillant - junior developer, author, Gentleman
+## Georges Le Vaillant - Junior Developer, Story-teller, Gentleman
 { *George Le Valiant - British pronunciation* }
 
 I am simply someone who wants to change their life to support a future unattainable through their previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my prospects to provide a decent contribution to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer available to me from that which has passed.
@@ -8,8 +8,7 @@ I am simply someone who wants to change their life to support a future unattaina
 |:-----------|:----------|:---|:----|:--------|
 |[Airport Challenge](https://github.com/stonefarmer9/airport_challenge)| Our first weekend challenge at Makers academy. A small app to mimic basic air traffic control functionality.|Ruby|RSpec|1 Weekend|
 |[Chitter Challenge](https://github.com/stonefarmer9/chitter-challenge)|Our Winter-Break Challenge completed during Makers. To build a web based messaging/note keeping service.|Ruby, HTML, Sinatra, Postgres, ActiveRecord, Rubocop |RSpec, Capybara|2 weeks (over Christmas period)|
-|[Airport](https://github.com/stonefarmer9/Airport---JS)|During week 6 of Makers our task was to learn a new language of our choice, choosing Javascript due to its popularity I began the process by test driving the Airport challenge with Jest. |Javascript|Jest|5 mornings (09:00-13:00)|
-|[AceBook](https://github.com/stonefarmer9/acebook-rails-smoking-dragons)|Our first big group project - build a facebook clone in Rails N.B Smoking-Dragons was our team name|Ruby on Rails, HTML, CSS, Travis, Heroku, ActiveRecord, Rubocop| RSpec, Capybara| 2 weeks|
+|[Airport -- JS](https://github.com/stonefarmer9/Airport---JS)|During week 6 of Makers our task was to learn a new language of our choice, choosing Javascript due to its popularity I began the process by test driving the Airport challenge with Jest. |Javascript|Jest|5 mornings (09:00-13:00)|
 |[Banking Tech Test](https://github.com/stonefarmer9/Banking-tech-test)|Week 10 project of Makers. Individual tech test practice. Taking a week to complete a small banking tech test which lets a user deposit and withdraw amounts and can provide a printed statement.|Javascript|Jest|1 week|
 |[Keep Ahead(React Front)](https://github.com/stonefarmer9/keepAhead-react_front_end_hhh)|Our final group project, an app for helping the homeless in an ever increasing cashless age. The app allows you to donate money to a local cafe or shelter for the homeless to redeem with a passphrase.|Front End: Javascript React, Back End: Ruby on Rails, Rubocop Both: Travis, Heroku|FE: Jest, Enzyme; BE: RSpec|2 weeks|
 
@@ -22,8 +21,8 @@ Through my time in hotels one skill mattered most and it was how you handled peo
 
 #### Communication
 
-The first thing to kill any workplace is a lack of communication, was advice given to me by one of my first managers. I only fully understood this upon reaching management level, where a lack of communication turned a complaint about a damaged car to a corporate level fandango.
-I have become a dutiful and diligent communicator from my time in this industry, implementing numerous methods for my teams and the wider company to communicate better. A big part of this was the simple introduction of publicly available technology like Whattsapp and Gdrive to ensure everyone was in the know at all times, along with handling the wider hotel's Duty Manager log, I ensured I was a man in the know most days and nexus of communication for the hotel.
+'The first thing to kill any workplace is a lack of communication', was advice given to me by one of my first managers. I only fully understood this upon reaching management level, where a lack of communication turned a complaint about a damaged car to a corporate level fandango.
+I have become a dutiful and diligent communicator from my time in this industry, implementing numerous methods for my teams and the wider company to communicate better. A big part of this was the simple introduction of publicly available technology like Whattsapp and Gdrive to ensure everyone was in the know at all times, along with handling the wider hotel's Duty Manager log, I ensured I was a man in the know most days and nexus of communication for my teams.
 
 #### Creativity
 
@@ -80,7 +79,7 @@ A-levels :
 
  **Assistant front office manager**
 
- [For More information on my work history]()
+ [For More information on my work history](https://github.com/stonefarmer9/CV/blob/master/workExperience.md)
 
 #### Hobbies & Interest ####
 I have always loved to read, and write fiction, currently working on a [fantasy epic](https://docs.google.com/document/d/1PUuP8AwBn2UY2svVBM5e8csOQf1CNxPyTvvl32xe3d4/edit?usp=sharing)(beware its a first draft!) while also working on a H.P. Lovecraft inspired anthology novel with my partner who also writes.
