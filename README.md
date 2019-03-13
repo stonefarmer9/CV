@@ -1,5 +1,7 @@
-## Georges Le Vaillant - Junior Developer, Story-teller, Gentleman
+## Georges Le Vaillant
 { *George Le Valiant - British pronunciation* }
+
+[Contact Details](https://github.com/stonefarmer9/CV/blob/master/contact-details.md)
 
 I am simply someone who wants to change their life to support a future unattainable through their previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my prospects to provide a decent contribution to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer available to me from that which has passed.
 
@@ -41,7 +43,7 @@ Having been a fervent follower of [Simon Sinek's](https://www.youtube.com/watch?
 
 #### Makers Academy (October 2017 - March 2018)
 
-I have spent the last 16 weeks in developer boot-camp. The first four weeks of which are spent self-teaching in your home environment, followed by 12 weeks onsite at the academy. Here our learning was focused on the language agnostic skills needed to be a developer. The core teachings they provided me are:
+Having spent the last 16 weeks in developer boot-camp. The first four weeks of which are spent self-teaching in your home environment, followed by 12 weeks onsite at the academy. Here our learning was focused on the language agnostic skills needed to be a developer. The core teachings they provided me are:
 
 - Test Driven Development (TDD)
 - Object Oriented Design (OOD)
@@ -85,3 +87,5 @@ A-levels :
 I have always loved to read, and write fiction, currently working on a [fantasy epic](https://docs.google.com/document/d/1PUuP8AwBn2UY2svVBM5e8csOQf1CNxPyTvvl32xe3d4/edit?usp=sharing)(beware its a first draft!) while also working on a H.P. Lovecraft inspired anthology novel with my partner who also writes.
 I am an avid hiker, sometimes loving nothing more than to disappear into the country side with my boots, compass and notebooks seeking inspiration.
 I am also a lover of interactive story-telling and gaming, requiring an awful lot of organisation and people managing but incredibly rewarding when your story takes your players deduce your challenges and creatively work through my campaign.
+
+Thank you for reading.
