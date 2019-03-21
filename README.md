@@ -14,21 +14,31 @@ I am simply someone who wants to change their life to support a future unattaina
 |[Banking Tech Test](https://github.com/stonefarmer9/Banking-tech-test)|Week 10 project of Makers. Individual tech test practice. Taking a week to complete a small banking tech test which lets a user deposit and withdraw amounts and can provide a printed statement.|Javascript|Jest|1 week|
 |[Keep Ahead(React Front)](https://github.com/stonefarmer9/keepAhead-react_front_end_hhh)|Our final group project, an app for helping the homeless in an ever increasing cashless age. The app allows you to donate money to a local cafe or shelter for the homeless to redeem with a passphrase.|Front End: Javascript React, Back End: Ruby on Rails, Rubocop Both: Travis, Heroku|FE: Jest, Enzyme; BE: RSpec|2 weeks|
 
+## Key Design Skills
+
+ - Test Driven development - TDD - I am experienced with : RSpec, Capybara, Jest, Enzyme, Jasmine - I believe in the tenets of test driven development and do believe it makes my code better.
+
+ - Object-Oriented-Design - OOD
+
+ - SOLID principles: Don't repeat yourself (DRY), Single responsibility principle (SRP) and other clean code practices were the main areas of focus for this set of principles, I am excited to learn how much more SOLID has to offer.
+
+ - Process driven methodology - Makers instilled in me an understanding that with a good, solid process you can overcome any problem, bug or technology. A key tenet of their teachings is to perfect process, and while I feel perfection is far off I am driven to achieve this.
+
+
 
 ## Skills
 
 #### People
 
-Through my time in hotels one skill mattered most and it was how you handled people. While not a natural skill entering the trade, it has certainly become one on leaving it. I have developed, through years of customer service and working in teams, an ability to read a person and take steps to be someone who can work with them and provide an excellent pairing experience for them. My skills with people led to me to understand that programming with people is always better for all parties involved (especially the code base). It is the ability of people to work together and share responsibility for something that drives them to action. I try to live these beliefs and do my best to create a fantastic environment for people around me, one where they feel welcome to ask questions, are open to giving and receiving feedback and nurturing change within ourselves and the team.
+Through my time in hotels one skill mattered most and it was how you handled people. My skills with people led to me to understand that programming with people is always better for all parties involved (especially the code base). It is the ability of people to work together and share responsibility for something that drives them to action. I try to live these beliefs and do my best to create a fantastic environment for people around me, one where they feel welcome to ask questions, are open to giving and receiving feedback and nurturing change within ourselves and the team.
 
 #### Communication
 
-'The first thing to kill any workplace is a lack of communication', was advice given to me by one of my first managers. I only fully understood this upon reaching management level, where a lack of communication turned a complaint about a damaged car to a corporate level fandango.
-I have become a dutiful and diligent communicator from my time in the hotel industry, implementing numerous methods for my teams and the wider company to communicate better. I am driven to ensure people are at all times connected and communicating, aware of what part of the project the other team is working on, whether that be via a work board like trello, organised stand-ups or the simple act of catching up regularly.
+'The first thing to kill any workplace is a lack of communication', was advice given to me by one of my first managers. I only fully understood this upon reaching management level, where a lack of communication turned a complaint about a damaged car to a corporate level fandango. Perhaps unsurprisingly, I am driven to ensure people are at all times connected and communicating, aware of what part of the project the other team is working on, whether that be via a work board like trello, organised stand-ups or the simple act of catching up regularly.
 
 #### Creativity
 
-I consider myself to be creative at heart and love the written word above any other art form. I have long ridden the hobby of creative writer, conjuring entire worlds into existence before snuffing them out. I try to bring this creativity to everything I do, be it creatively changing a cigarette break into a daily managers meeting, or finding new ways to google a problem to find new answers. I feel this skill affords me an ability to easily throw out the old and bring in the new as is often needed in the development process. I am happy to change my direction and approach a bug from a completely new angle, drawing on the people around me to inspire this change. 
+I consider myself to be creative at heart and love the written word above any other art form. I have long ridden the hobby of creative writer, conjuring entire worlds into existence before snuffing them out. I try to bring this creativity to everything I do, be it creatively changing a cigarette break into a daily managers meeting, or finding new ways to google a problem to find new answers. I feel this skill affords me an ability to easily throw out the old and bring in the new as is often needed in the development process. I am happy to change my direction and approach a bug from a completely new angle, drawing on the people around me to inspire this change.
 
 #### Patient
 
@@ -45,11 +55,11 @@ Having been a fervent follower of [Simon Sinek's](https://www.youtube.com/watch?
 
 Having spent the last 16 weeks in developer boot-camp. The first four weeks of which are spent self-teaching in your home environment, followed by 12 weeks onsite at the academy. Here our learning was focused on the language agnostic skills needed to be a developer. The core teachings they provided me are:
 
-- Test Driven Development (TDD)
-- Object Oriented Design (OOD)
+- TDD
+- OOD
 - Debugging process
 - General methodical processes for approaching any project.
-- SOLID principles such as Do Not Repeat yourself (DRY) and Single responsibility principle(SRP)
+- SOLID: DRY & SRP.
 - Clean code conventions and processes.
 
 The course has given me an excellent set of skills to enable me to become a junior developer and begin a career in the tech industry.
