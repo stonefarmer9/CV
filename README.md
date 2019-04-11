@@ -3,7 +3,7 @@
 
 [Contact Details](https://github.com/stonefarmer9/CV/blob/master/contact-details.md)
 
-I am simply someone who wants to change their life to support a future unattainable through their previous choices. I have achieved a modest amount of success in the hotel industry, rising to dizzying heights of senior management, but now seek to change my prospects to provide a decent contribution to society and our people. Deciding that technology is where the true future of our societies development lies I wish to enter this industry to provide a service that will affect many positively and achieve an inner peace no longer available to me from that which has passed.
+A junior developer with a background in hospitality. I pride myself on my interpersonal skills, my creativity and my past success in leadership. Having just completed an intense industry bootcamp I have learnt of and love the tenets of clean code and test driven development. I am excited for my first role so I can grow and become a stronger developer.
 
 ## Projects
 |Project Name|Description|Tech|Tests|Timeframe|
@@ -14,7 +14,7 @@ I am simply someone who wants to change their life to support a future unattaina
 |[Banking Tech Test](https://github.com/stonefarmer9/Banking-tech-test)|Week 10 project of Makers. Individual tech test practice. Taking a week to complete a small banking tech test which lets a user deposit and withdraw amounts and can provide a printed statement.|Javascript|Jest|1 week|
 |[Keep Ahead(React Front)](https://github.com/stonefarmer9/keepAhead-react_front_end_hhh)|Our final group project, an app for helping the homeless in an ever increasing cashless age. The app allows you to donate money to a local cafe or shelter for the homeless to redeem with a passphrase.|Front End: Javascript React, Back End: Ruby on Rails, Rubocop Both: Travis, Heroku|FE: Jest, Enzyme; BE: RSpec|2 weeks|
 
-## Key Design Skills
+### Key Design Skills
 
  - Test Driven development - TDD - I am experienced with : RSpec, Capybara, Jest, Enzyme, Jasmine - I believe in the tenets of test driven development and do believe it makes my code better.
 
@@ -26,34 +26,24 @@ I am simply someone who wants to change their life to support a future unattaina
 
 
 
-## Skills
+### Skills
 
-#### People
+- _People_ - My experience in hotels has given me a suite of skills to work with people and create a cohesive, supportive, and caring environment around me. My experience makes me a conscious pair partner and someone who wants to work with a team solve problems and deliver fantastic products together.
 
-Through my time in hotels one skill mattered most and it was how you handled people. My skills with people led to me to understand that programming with people is always better for all parties involved (especially the code base). It is the ability of people to work together and share responsibility for something that drives them to action. I try to live these beliefs and do my best to create a fantastic environment for people around me, one where they feel welcome to ask questions, are open to giving and receiving feedback and nurturing change within ourselves and the team.
+- _Communication_ - I have worked in the past to keep communication open and continuous. Utilising simple tools such as WhattsApp, GDrive and shared spreadsheets. I am focused on making sure everyone knows what is happening at all times as I know from experience how a simple break down can snowball to an avalanche of problems.
 
-#### Communication
+- _Creativity_ - Having long ridden the hobby horse of creative writer I consider myself to be creative at heart. I long for inspiration and it comes from the people around me. Everyone around me has a tale to tell and I want to hear it. This gives me an openness and curiosity to learn from those around me.
 
-'The first thing to kill any workplace is a lack of communication', was advice given to me by one of my first managers. I only fully understood this upon reaching management level, where a lack of communication turned a complaint about a damaged car to a corporate level fandango. Perhaps unsurprisingly, I am driven to ensure people are at all times connected and communicating, aware of what part of the project the other team is working on, whether that be via a work board like trello, organised stand-ups or the simple act of catching up regularly.
+- _Patience_ - I have always been patient, and my hotel years have tested this thoroughly. I will never rush my work and aim for a "measure twice, cut once" attitude to everything I do. This trait means I make sure I know what it is I am doing before I take the first steps of progress.
 
-#### Creativity
-
-I consider myself to be creative at heart and love the written word above any other art form. I have long ridden the hobby of creative writer, conjuring entire worlds into existence before snuffing them out. I try to bring this creativity to everything I do, be it creatively changing a cigarette break into a daily managers meeting, or finding new ways to google a problem to find new answers. I feel this skill affords me an ability to easily throw out the old and bring in the new as is often needed in the development process. I am happy to change my direction and approach a bug from a completely new angle, drawing on the people around me to inspire this change.
-
-#### Patient
-
-I have always been patient with people, and progression. I feel it is one of my greatest strength and by far the one that has taken me furthest. It is an undeniable asset in me that has allowed me to take underperforming staff, and in a few months of hard work turn them into team leaders and supervisors. I take the time to listen to those who follow me and to lead them down a path they are happy with, I will always wait and pick them up when they stumble, as all people do, and I will never leave a man behind because they are slow, I would rather re-work the team to make them fast. While this applies to working with people it also applies to how I approach my developing. I take a patient slow approach, giving myself time to breath and think things through before I commit it to action. I like to model my projects thoroughly, and make sure I have a good grasp of what I am actually trying to do before I put it to practice.
-
-#### Team leadership
-
-Having been a fervent follower of [Simon Sinek's](https://www.youtube.com/watch?v=u4ZoJKF_VuA&list=FLS9PFx7DUC7LOAII8mrArkw&index=8&t=0s) teachings since my exposure to it at a leadership training weekend. I followed his words and the words of some fantastic teachers based in the [Netherlands](https://ps-ee.com/), and defined myself not as a manager but as a leader, someone who would lead the forlorn hope rather than direct it. I lived these values at my time in Windsor especially, even becoming the in house leadership trainer, allowing me to coach and teach the lessons that made me effective as people leader. It is really my aspiration to become a team leader or dare I say it, manager within technology as I believe my skills will truly shine in these roles eventually.
+- _Team Leadership_ - Having been a fervent follower of [Simon Sinek's](https://www.youtube.com/watch?v=u4ZoJKF_VuA&list=FLS9PFx7DUC7LOAII8mrArkw&index=8&t=0s) teachings since my exposure to it. I was trained to not be a manager, but a leader. I will always aim to work with people and help them, I want to help develop them and make them what they want to be, and lead them down a path of fulfilment.
 
 
 ## Education & Qualifiations
 
 #### Makers Academy (October 2017 - March 2018)
 
-Having spent the last 16 weeks in developer boot-camp. The first four weeks of which are spent self-teaching in your home environment, followed by 12 weeks onsite at the academy. Here our learning was focused on the language agnostic skills needed to be a developer. The core teachings they provided me are:
+I have spent 16 weeks in a developer boot-camp. The first four weeks of which are spent self-teaching in your home environment, followed by 12 weeks onsite at the academy. Here our learning was focused on the language agnostic skills needed to be a developer. The core teachings they provided me are:
 
 - TDD
 - OOD
