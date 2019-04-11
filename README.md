@@ -16,13 +16,13 @@ A junior developer with a background in hospitality. I pride myself on my interp
 
 ### Key Design Skills
 
- - Test Driven development - TDD - I am experienced with : RSpec, Capybara, Jest, Enzyme, Jasmine - I believe in the tenets of test driven development and do believe it makes my code better.
+ - _Test Driven development_ - TDD - I am experienced with: RSpec, Capybara, Jest, Enzyme, Jasmine - I believe in the tenets of test driven development and strongly believe it makes my code better.
 
- - Object-Oriented-Design - OOD
+ - _Object-Oriented-Design_ - OOD
 
- - SOLID principles: Don't repeat yourself (DRY), Single responsibility principle (SRP) and other clean code practices were the main areas of focus for this set of principles, I am excited to learn how much more SOLID has to offer.
+ - _SOLID principles_: Don't repeat yourself (DRY), Single responsibility principle (SRP) and other clean code practices were the main areas of focus for this set of principles, I am excited to learn how much more SOLID has to offer.
 
- - Process driven methodology - Makers instilled in me an understanding that with a good, solid process you can overcome any problem, bug or technology. A key tenet of their teachings is to perfect process, and while I feel perfection is far off I am driven to achieve this.
+ - _Process driven methodology_ - Makers instilled in me an understanding that with a good, solid process you can overcome any problem, bug or technology. A key tenet of their teachings is to perfect process, and while I feel perfection is far off I am driven to achieve this.
 
 
 
