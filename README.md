@@ -86,6 +86,6 @@ A-levels :
 #### Hobbies & Interest ####
 I have always loved to read, and write fiction, currently working on a [fantasy epic](https://docs.google.com/document/d/1PUuP8AwBn2UY2svVBM5e8csOQf1CNxPyTvvl32xe3d4/edit?usp=sharing)(beware its a first draft!) while also working on a H.P. Lovecraft inspired anthology novel with my partner who also writes.
 I am an avid hiker, sometimes loving nothing more than to disappear into the country side with my boots, compass and notebooks seeking inspiration.
-I am also a lover of interactive story-telling and gaming, requiring an awful lot of organisation and people managing but incredibly rewarding when your story takes your players deduce your challenges and creatively work through my campaign.
+I am also a lover of interactive story-telling and gaming, requiring an awful lot of organisation and people managing but incredibly rewarding when my players deduce my challenges and creatively work through my campaign.
 
 Thank you for reading.
