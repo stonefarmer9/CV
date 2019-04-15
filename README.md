@@ -8,11 +8,13 @@ A junior developer with a background in hospitality. I pride myself on my interp
 ## Projects
 |Project Name|Description|Tech|Tests|Timeframe|
 |:-----------|:----------|:---|:----|:--------|
-|[Airport Challenge](https://github.com/stonefarmer9/airport_challenge)| Our first weekend challenge at Makers academy. A small app to mimic basic air traffic control functionality.|Ruby|RSpec|1 Weekend|
-|[Chitter Challenge](https://github.com/stonefarmer9/chitter-challenge)|Our Winter-Break Challenge completed during Makers. To build a web based messaging/note keeping service.|Ruby, HTML, Sinatra, Postgres, ActiveRecord, Rubocop |RSpec, Capybara|2 weeks (over Christmas period)|
-|[Airport -- JS](https://github.com/stonefarmer9/Airport---JS)|During week 6 of Makers our task was to learn a new language of our choice, choosing Javascript due to its popularity I began the process by test driving the Airport challenge with Jest. |Javascript|Jest|5 mornings (09:00-13:00)|
 |[Banking Tech Test](https://github.com/stonefarmer9/Banking-tech-test)|Week 10 project of Makers. Individual tech test practice. Taking a week to complete a small banking tech test which lets a user deposit and withdraw amounts and can provide a printed statement.|Javascript|Jest|1 week|
 |[Keep Ahead(React Front)](https://github.com/stonefarmer9/keepAhead-react_front_end_hhh)|Our final group project, an app for helping the homeless in an ever increasing cashless age. The app allows you to donate money to a local cafe or shelter for the homeless to redeem with a passphrase.|Front End: Javascript React, Back End: Ruby on Rails, Rubocop Both: Travis, Heroku|FE: Jest, Enzyme; BE: RSpec|2 weeks|
+|[Chitter Challenge](https://github.com/stonefarmer9/chitter-challenge)|Our Winter-Break Challenge completed during Makers. To build a web based messaging/note keeping service.|Ruby, HTML, Sinatra, Postgres, ActiveRecord, Rubocop |RSpec, Capybara|2 weeks (over Christmas period)|
+|[Airport -- JS](https://github.com/stonefarmer9/Airport---JS)|During week 6 of Makers our task was to learn a new language of our choice, choosing Javascript due to its popularity I began the process by test driving the Airport challenge with Jest. |Javascript|Jest|5 mornings (09:00-13:00)|
+|[Airport Challenge](https://github.com/stonefarmer9/airport_challenge)| Our first weekend challenge at Makers academy. A small app to mimic basic air traffic control functionality.|Ruby|RSpec|1 Weekend|
+
+
 
 ### Key Design Skills
 
