@@ -1,5 +1,28 @@
 ## Experience
 
+### Makers Academy (August 2019 - current)
+
+***Contractor with Deloitte - Analyst Grade***
+
+#### Responsibilities
+
+- Provide clean code and best practice to the client (Deloitte) and provide value to the business through strong development skills and principles.
+
+- Create and maintain good personal connections within my project teams and wider company team to help create a positive and productive environment.
+
+- Offer help, assistance, and learing to any who ask it. 
+
+- Learn to become a better software engineer through learning courses, learning from others and industry best practice. 
+
+#### Achievements
+
+- See Deloitte Projects table for projects I have achieved while working.
+
+- Created Front-end learing documents for the Tech engineering guil - The documents contain guides on how to learn Javascript, HTML, CSS, react and all offer a number of ways to study as to account for the different ways people learn. There are video options, blogs, online courses all outlined as part of this.
+
+- Ran a Test-driven-develpment workshop in August 2019 to introduce the concept and some basic exercises to help learn TDD.
+
+
 ### Christchurch Harbour Hotel (October 2017 to March 2018)    
 
 **Front office Manager**
