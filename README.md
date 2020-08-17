@@ -3,7 +3,15 @@
 
 [Contact Details](https://github.com/stonefarmer9/CV/blob/master/contact-details.md)
 
-A junior developer with a background in hospitality. I pride myself on my interpersonal skills, my creativity and my past success in leadership. Having just completed an intense industry bootcamp I have learnt of and love the tenets of clean code and test driven development. I am excited for my first role so I can grow and become a stronger developer.
+A developer with a background in hospitality. I pride myself on my interpersonal skills, my creativity and my past success in leadership. Having completed an intense industry bootcamp I have learnt of and love the tenets of clean code and test driven development. Now at the end of my first year in the industry with two successful projects under my belt and a third ongoing I am looking forward to taking the next step in my personal and career development.
+
+## Deloitte Projects
+
+|Project Name|Description|Tech|Status|Timeframe|
+|:-----------|:----------|:---|:-----|:--------|
+|Digital Skills POC|Front-end development of an interactive test to help users re-skill into digital industries. Working with a team of 6 others I worked on the front-end functionality. Working closely with the back-end developer to ensure all ran smoothly and bug free.|Javascript, React, Jest, Enzyme, DynamoDB, Nodejs, express, CSS3, HTML4|SOLD - currently in full dev|August 2019-september2019|
+|Shopalytix|Front end devlopment of a retail data analytics dashboard, taking data from a mulititude of IOT sensors placed in retail spaces. We created a dashboard to present the data, compared to previous time period, in a series of graphs, cards and heatmaps. As the sole FE Dev on this project, was responsible for all design and modelling of FE, working with BE engineers to ensure code quality and closely communicating with the product owner for feedback and requirements.|VueJS, VueX, Vue-router, GraphQL, Python Micro-services, ChartJS, OpenweatherMap, HeatmapsJS|On Going - Project wes held due to Covid, dev has recently restarted.|October 2019 - April 2020|
+|Project Ranger|Front-end development of a dashboard to show and track data coming from multiple sources. On the project I have the luxury of working with a senior FE engineer who also holds the role of FE Tech lead. I am able to focus more on code quality and cleanliness.|ReactJS, Typescript, React-router, react-redux, React-testing-library, CSS3, HTML5, nodeJS|On going|June 2020 - current|
 
 ## Projects
 |Project Name|Description|Tech|Tests|Timeframe|
@@ -69,7 +77,9 @@ A-levels :
         -Classical Civilisation
 ```
 
-## Experience
+## Work Experience
+
+### Deloitte Consultancy (August 2019 - current)
 
 ### Christchurch Harbour Hotel (October 2017 to March 2018)    
 
