@@ -79,7 +79,11 @@ A-levels :
 
 ## Work Experience
 
-### Deloitte Consultancy (August 2019 - current)
+### Makers Academy (August 2019 - current)
+
+**Contractor Software engineer**
+
+**Contracted as Analyst to Deloitte Techworks Bristok**
 
 ### Christchurch Harbour Hotel (October 2017 to March 2018)    
 
