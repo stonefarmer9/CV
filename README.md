@@ -83,7 +83,7 @@ A-levels :
 
 **Contractor Software engineer**
 
-**Contracted as Analyst to Deloitte Techworks Bristok**
+**Contracted as Analyst to Deloitte Techworks Bristol**
 
 ### Christchurch Harbour Hotel (October 2017 to March 2018)    
 
